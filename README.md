@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sharath H N</h1>
-<h3 align="center">A passionate Full Stack Developer & Cloud Enthusiast from India</h3>
+<div align="center">
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:22d3ee,50:0891b2,100:0f172a&text=Hi,%20I'm%20Sharath%20H%20N&fontColor=ffffff&fontSize=40&animation=fadeIn"
+alt="Header banner"
+/>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharath-6363&label=Profile%20views&color=0e75b6&style=flat" alt="sharath-6363" />
@@ -7,102 +12,149 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharath-6363" alt="sharath-6363" /></a>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-0f172a?style=for-the-badge" alt="Full Stack Developer" />
+<img src="https://img.shields.io/badge/Cloud-Enthusiast-0891b2?style=for-the-badge" alt="Cloud Enthusiast" />
+<img src="https://img.shields.io/badge/Always-Learning-FFA116?style=for-the-badge" alt="Always Learning" />
 </p>
 
----
-
-### 🚀 About Me
+## About Me
 
 - 🔭 I'm a **Full Stack Developer** who loves building things end-to-end — frontend, backend, and now, the cloud
 - 🌱 Currently learning **Three.js, AWS, React Native, Google Cloud, AI/ML, and Blockchain**
 - 💻 All my projects are live at **[sharathhn.netlify.app](https://sharathhn.netlify.app/)**
-- 💬 Ask me about **React JS, Spring Boot, Java, and cloud deployments**
-- ⚡ Fun fact: I enjoy turning ideas into deployed, working products — not just code on a screen
+- 💬 Ask me about **React JS, Spring Boot, and Java**
 - 📫 Reach me at **sharathhn613@gmail.com**
 
----
+## Tech That I Know
 
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/sharath-hn-368449228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharath-hn-368449228" height="30" width="40" /></a>
-<a href="https://instagram.com/sharath_63_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharath_63_" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sharathhn100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sharathhn100" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/>
-</p>
-
-**Backend**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
-**Databases**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</p>
-
-**Cloud & DevOps**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</p>
-
-**AI / ML**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-<img src="https://claude.ai/images/claude_app_icon.png" alt="claude ai" width="40" height="40"/>
-</p>
-
-**Blockchain**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
-</p>
-
-**Tools**
-
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+### Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharath-6363&show_icons=true&theme=radical" alt="sharath-6363 stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharath-6363&theme=radical" alt="sharath-6363 streak" width="48%" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+</p>
+
+### Backend & APIs
+
+<p align="center">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge" alt="REST API" />
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Cloud & DevOps
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### AI / ML
+
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+### Blockchain
+
+<p align="center">
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharath-6363&theme=tokyonight"
+alt="GitHub profile summary"
+/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-6363&layout=compact&theme=radical" alt="sharath-6363 top languages" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharath-6363&theme=tokyonight"
+alt="Repositories per language"
+/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharath-6363&theme=tokyonight"
+alt="Most commit language"
+/>
 </p>
+
+<p align="center">
+<img
+src="https://streak-stats.demolab.com?user=sharath-6363&theme=tokyonight&hide_border=true"
+alt="GitHub streak"
+/>
+</p>
+
+<p align="center">
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=sharath-6363&theme=tokyo-night&hide_border=true"
+alt="Activity graph"
+/>
+</p>
+
+## Connect With Me
+
+<p align="center">
+<a href="https://github.com/sharath-6363">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/sharath-hn-368449228">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/sharath_63_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.hackerearth.com/@sharathhn100">
+<img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
+</a>
+<a href="https://sharathhn.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+</p>
+
+<div align="center">
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22d3ee,50:0891b2,100:0f172a&section=footer"
+alt="Footer banner"
+/>
+</div>
