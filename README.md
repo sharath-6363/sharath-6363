@@ -12,82 +12,55 @@
 
 </div>
 
----
-
-<!-- ========================================================= -->
-<!--                     ABOUT ME                              -->
-<!-- ========================================================= -->
-
-<h2 align="center">⚡ About Me</h2>
-
+<br>
+```yaml
+name: Sharath H N
+role: Full Stack Developer
+based_in: India
+currently_learning: [Three.js, AWS, React Native, Google Cloud, AI/ML, Blockchain]
+portfolio: sharathhn.netlify.app
+email: sharathhn613@gmail.com
+fun_fact: "I like shipping ideas end-to-end, not just writing code"
+```
+ 
+<br>
+## 📂 Skill Matrix
+ 
+| Category | Stack |
+|---|---|
+| **Languages** | Java · Python · JavaScript |
+| **Frontend** | HTML5 · CSS3 · Bootstrap · React · React Native · Three.js |
+| **Backend** | Spring Boot · Node.js · REST APIs |
+| **Databases** | MySQL · PostgreSQL · MongoDB |
+| **Cloud & Hosting** | AWS · Amazon S3 · Google Cloud · Netlify |
+| **AI / ML** | TensorFlow · scikit-learn · Pandas · NumPy |
+| **Blockchain** | Solidity · Web3 |
+| **Tools** | Git · GitHub · Docker · Postman · VS Code |
+ 
+<br>
+## 📊 Activity
+ 
 <div align="center">
-
-<table>
-<tr>
-
-<td width="55%" valign="top">
-
-<h3>👋 Hey, I'm Sharath H N</h3>
-
-<p>
-I'm a <b>Full Stack Developer</b> who enjoys turning ideas into
-real-world applications — from the first line of code to deployment.
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=sharath-6363&show_icons=true&hide_border=true&theme=nightowl&count_private=true" alt="stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-6363&layout=compact&hide_border=true&theme=nightowl" alt="top langs" height="165" />
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharath-6363&theme=react-dark&hide_border=true" alt="activity graph" width="95%" />
+</div>
 <br>
-
-<table>
-<tr>
-<td>💻</td>
-<td><b>Build</b><br>Modern full-stack applications</td>
-</tr>
-
-<tr>
-<td>🤖</td>
-<td><b>Explore</b><br>AI, ML, RAG & intelligent systems</td>
-</tr>
-
-<tr>
-<td>☁️</td>
-<td><b>Deploy</b><br>Cloud-ready applications & APIs</td>
-</tr>
-
-<tr>
-<td>🚀</td>
-<td><b>Ship</b><br>Ideas from concept → production</td>
-</tr>
-</table>
-
+## 🌐 Find Me Elsewhere
+ 
+<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-sharathhn.netlify.app-0891B2?style=flat-square&logo=netlify&logoColor=white)](https://sharathhn.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharath-hn-368449228)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sharath_63_)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-Profile-2C3454?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@sharathhn100)
+[![Email](https://img.shields.io/badge/Email-sharathhn613%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharathhn613@gmail.com)
+ 
+</div>
 <br>
-
-<img src="https://img.shields.io/badge/📍_India-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/💼_Full_Stack-0F172A?style=flat-square" />
-<img src="https://img.shields.io/badge/🤖_AI%2FML-0891B2?style=flat-square" />
-
-</td>
-
-<td width="45%" valign="top">
-
-<h3>🖥️ Developer Terminal</h3>
-
-```text
-┌─────────────────────────────┐
-│  ● ● ●   sharath@dev        │
-├─────────────────────────────┤
-│                             │
-│ $ whoami                    │
-│ > Full Stack Developer      │
-│                             │
-│ $ focus                     │
-│ > React                     │
-│ > Spring Boot               │
-│ > AI / ML                   │
-│ > Cloud                     │
-│                             │
-│ $ status                    │
-│ > Building 🚀               │
-│                             │
-│ $ location                  │
-│ > India 🇮🇳                 │
-│                             │
-└─────────────────────────────┘
+<div align="center">
+*"Code is easy. Shipping it, that's the real skill."*
+ 
+</div>
+ 
