@@ -151,14 +151,20 @@ I'm a **Full Stack Developer** from **India 🇮🇳** who loves crafting fast, 
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
+<h4 align="center">📈 GitHub Stats & Top Languages</h4>
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sharath-6363&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=0891B2&text_color=C9D1D9&border_radius=10" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-6363&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8&border_radius=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharath-6363&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=0891B2&text_color=C9D1D9&border_radius=10&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-6363&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8&border_radius=10&cache_seconds=86400" alt="Top Languages" />
 </p>
+
+<h4 align="center">🔥 GitHub Streak</h4>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sharath-6363&theme=tokyonight&hide_border=true&background=0D1117&stroke=0891B2&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&border_radius=10" alt="GitHub Streak" />
 </p>
+
+<h4 align="center">📉 Contribution Activity Graph</h4>
 
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharath-6363&bg_color=0D1117&color=22D3EE&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
@@ -174,18 +180,6 @@ I'm a **Full Stack Developer** from **India 🇮🇳** who loves crafting fast, 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sharath-6363&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION SNAKE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharath-6363/sharath-6363/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="95%" />
 </p>
 
 ---
