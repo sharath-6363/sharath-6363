@@ -1,10 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:0F172A,100:0891B2&text=SHARATH%20H%20N&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CLOUD%20%7C%20AI%2FML&descAlignY=62&descSize=16&animation=fadeIn" />
-
-<br>
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sharath+H+N;Full+Stack+Developer;Cloud+%2B+AI%2FML+Explorer;Welcome+to+my+profile!" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=sharath-6363&label=Profile%20Views&color=0891B2&style=for-the-badge" alt="profile views" />
