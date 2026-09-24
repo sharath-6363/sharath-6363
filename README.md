@@ -14,50 +14,80 @@
 
 ---
 
-# 👨‍💻 About Me
+<!-- ========================================================= -->
+<!--                     ABOUT ME                              -->
+<!-- ========================================================= -->
 
-```yaml
-name: Sharath H N
-role: Full Stack Developer
-location: India
+<h2 align="center">⚡ About Me</h2>
 
-frontend:
-  - React
-  - JavaScript
-  - React Native
-  - Three.js
+<div align="center">
 
-backend:
-  - Java
-  - Spring Boot
-  - Node.js
-  - FastAPI
-  - REST APIs
+<table>
+<tr>
 
-databases:
-  - MySQL
-  - PostgreSQL
-  - MongoDB
+<td width="55%" valign="top">
 
-cloud:
-  - AWS
-  - Amazon S3
-  - Google Cloud
-  - Netlify
+<h3>👋 Hey, I'm Sharath H N</h3>
 
-ai_ml:
-  - Python
-  - TensorFlow
-  - Scikit-Learn
-  - RAG
-  - LLM Applications
+<p>
+I'm a <b>Full Stack Developer</b> who enjoys turning ideas into
+real-world applications — from the first line of code to deployment.
+</p>
 
-currently_learning:
-  - Three.js
-  - AWS
-  - React Native
-  - Google Cloud
-  - AI/ML
-  - Blockchain
+<br>
 
-philosophy: "I like shipping ideas end-to-end, not just writing code."
+<table>
+<tr>
+<td>💻</td>
+<td><b>Build</b><br>Modern full-stack applications</td>
+</tr>
+
+<tr>
+<td>🤖</td>
+<td><b>Explore</b><br>AI, ML, RAG & intelligent systems</td>
+</tr>
+
+<tr>
+<td>☁️</td>
+<td><b>Deploy</b><br>Cloud-ready applications & APIs</td>
+</tr>
+
+<tr>
+<td>🚀</td>
+<td><b>Ship</b><br>Ideas from concept → production</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/📍_India-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/💼_Full_Stack-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/🤖_AI%2FML-0891B2?style=flat-square" />
+
+</td>
+
+<td width="45%" valign="top">
+
+<h3>🖥️ Developer Terminal</h3>
+
+```text
+┌─────────────────────────────┐
+│  ● ● ●   sharath@dev        │
+├─────────────────────────────┤
+│                             │
+│ $ whoami                    │
+│ > Full Stack Developer      │
+│                             │
+│ $ focus                     │
+│ > React                     │
+│ > Spring Boot               │
+│ > AI / ML                   │
+│ > Cloud                     │
+│                             │
+│ $ status                    │
+│ > Building 🚀               │
+│                             │
+│ $ location                  │
+│ > India 🇮🇳                 │
+│                             │
+└─────────────────────────────┘
